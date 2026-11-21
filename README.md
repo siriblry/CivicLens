@@ -69,7 +69,7 @@ Prototype – Under Development.
 - Predictive maintenance
 - Complaint resolution verification
 
-## Vision
+## Vision!
 
 To create smarter, more responsive and transparent municipal services through artificial intelligence.
 
